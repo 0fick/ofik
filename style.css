@@ -1,0 +1,31 @@
+
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background: #f9f5f0;
+  text-align: center;
+  color: #4e342e;
+}
+.cover {
+  padding: 100px 20px;
+  background: #d7ccc8;
+}
+.content.hidden {
+  display: none;
+}
+.section {
+  padding: 40px 20px;
+}
+.gallery img {
+  width: 150px;
+  margin: 10px;
+  border-radius: 10px;
+}
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #4e342e;
+  padding: 8px 12px;
+}
